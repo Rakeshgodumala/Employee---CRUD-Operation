@@ -2,7 +2,10 @@ Full Stack App (React + Node.js) This is a full-stack web application with a Rea
 
 Project Structure
 
-root/ │ ├── client/ # React frontend │ └── ... │ ├── server/ # Node.js + Express backend │ └── ... │ └── README.md
+root/│ 
+├── client/ # React frontend │└── ... │ 
+├── server/ # Node.js + Express backend │
+└── ... │ └── README.md
 
 🚀 Getting Started Prerequisites Make sure you have the following installed:
 
